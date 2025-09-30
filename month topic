@@ -1,0 +1,46 @@
+🗓️ Weekdays (Mon–Fri): 2 PM – 10 PM
+Each weekday includes:
+2 hrs Learning
+4 hrs Coding/Practice
+2 hrs Cloud & Security
+🔹 Week 1: React.js + AWS S3 + Cloud Security
+Day	Topics	Coding	Cloud & Security
+Mon	React Hooks & JSX	Build components	S3 setup & IAM roles
+Tue	Context API & Redux	State management	HTTPS & bucket policies
+Wed	Routing & UI	Dashboard layout	CloudFront config
+Thu	Performance	Lazy loading, memo	S3 logging & versioning
+Fri	Project Build	Dashboard project	Deploy to S3
+🔹 Week 2: Node.js + Express + MongoDB + AWS EC2
+Day	Topics	Coding	Cloud & Security
+Mon	Node.js Basics	File ops, modules	EC2 setup
+Tue	Express.js	Routing, middleware	Security groups
+Wed	MongoDB	Schema, aggregation	MongoDB Atlas setup
+Thu	Auth & Validation	JWT, roles	Secrets Manager
+Fri	Backend Project	CRUD API	CloudWatch monitoring
+🔹 Week 3: Full Stack Integration + Azure + CI/CD
+Day	Topics	Coding	Cloud & Security
+Mon	Frontend-Backend	Axios, error handling	Secure API calls
+Tue	Docker	Containerize app	Docker secrets
+Wed	Azure App Service	Deploy full app	App Service Auth
+Thu	Azure DevOps	CI/CD pipeline	Key Vault integration
+Fri	Testing	Jest, Supertest	Secure test data handling
+🔹 Week 4: Advanced Features + Final Project + Security Review
+Day	Topics	Coding	Cloud & Security
+Mon	WebSockets	Real-time chat	Secure socket setup
+Tue	Redis	Caching API	Redis auth & firewall
+Wed	Performance	Profiling, indexing	Audit logs
+Thu	Microservices	Architecture overview	Secure service comms
+Fri	Final Project	Full MERN app	WAF, HTTPS, patching
+🧠 Weekend Study Suggestions (Sat–Sun)
+🔸 Week 1 Weekend
+Sat: React mini-project (e.g., To-Do App)
+Sun: AWS IAM deep dive + S3 security checklist
+🔸 Week 2 Weekend
+Sat: Backend mini-project (e.g., Notes API)
+Sun: EC2 hardening + MongoDB security practices
+🔸 Week 3 Weekend
+Sat: CI/CD pipeline for mini-project
+Sun: Azure security best practices + Key Vault lab
+🔸 Week 4 Weekend
+Sat: Final project polish + README
+Sun: Security audit using OWASP ZAP or Snyk
