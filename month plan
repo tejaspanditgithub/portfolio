@@ -1,0 +1,79 @@
+# 🧠 1-Month MERN Full Stack Developer Learning Plan
+ 
+This repository contains a comprehensive 1-month learning plan for MERN Full Stack Development, including AWS, Azure, cloud security best practices, weekday and weekend schedules, time management tools, and a suggested daily routine outside working hours.
+ 
+---
+ 
+## 📅 Daily Schedule (Mon–Fri)
+ 
+| Time | Activity | Notes |
+|------|----------|-------|
+| 7:00 AM – 8:00 AM | Light Learning | Read articles, watch short tutorials |
+| 8:00 AM – 8:30 AM | Planning | Review goals, update task list |
+| 2:00 PM – 10:00 PM | Main Study Block | As per daywise MERN + Cloud plan |
+| 10:00 PM – 10:30 PM | Wrap-up | Journal progress, plan next day |
+ 
+---
+ 
+## 🧠 Weekend Study Plan (Sat–Sun)
+ 
+| Day | Time | Focus |
+|-----|------|-------|
+| Saturday | 10 AM – 1 PM | Mini-project (React or Node) |
+|          | 2 PM – 4 PM | Cloud deployment (AWS/Azure) |
+|          | 5 PM – 7 PM | Security deep dive (IAM, WAF, Key Vault) |
+| Sunday   | 10 AM – 12 PM | Code review & refactoring |
+|          | 2 PM – 4 PM | Practice testing (Jest, Supertest) |
+|          | 5 PM – 7 PM | Portfolio update, GitHub README |
+ 
+---
+ 
+## 📅 Weekly Breakdown
+ 
+### Week 1: React.js + AWS S3 + Cloud Security
+- Advanced React (Hooks, Context API, Redux Toolkit)
+- Component optimization, routing, responsive UI
+- Host frontend on AWS S3 + CloudFront
+- Cloud security: IAM roles, HTTPS, logging
+ 
+### Week 2: Node.js + Express + MongoDB + AWS EC2
+- RESTful API, JWT auth, Mongoose schemas
+- Deploy backend on EC2, MongoDB Atlas
+- Cloud security: Security groups, Secrets Manager, CloudWatch
+ 
+### Week 3: Full Stack Integration + Azure + CI/CD
+- Frontend-backend integration, Docker, CI/CD
+- Deploy full-stack app on Azure App Service
+- Azure security: Key Vault, App Service Auth, Managed Identity
+ 
+### Week 4: Advanced Features + Final Project + Security Review
+- WebSockets, Redis caching, performance tuning
+- Final MERN project with documentation
+- Security audit: OWASP ZAP, Snyk, WAF, HTTPS
+ 
+---
+ 
+## ✅ Time Management Tools
+ 
+### Planning & Tracking
+- **Notion**: Daily planner, resource links, progress tracking
+- **Trello**: Weekly boards and task cards
+- **Google Calendar**: Block study hours, set reminders
+ 
+### Focus & Productivity
+- **Pomofocus**: Pomodoro timer
+- **Forest App**: Gamified focus tool
+- **Todoist**: Task manager with priorities
+ 
+### Progress Monitoring
+- **Clockify**: Time tracking
+- **Obsidian**: Structured note-taking
+- **GitHub Projects**: Issue tracking and milestones
+ 
+---
+ 
+## 📁 Repository Structure (Suggested)
+- `/frontend`: React.js codebase
+- `/backend`: Node.js + Express API
+- `/docs`: Documentation and README files
+- `/deploy`: Scripts and configs for AWS/Azure deployment
